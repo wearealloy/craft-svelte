@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: true
+handle: interests
+name: Interests
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  6478671f-b8e0-4ebb-82fa-6a5e69963284: # Svelte Craft
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+type: channel

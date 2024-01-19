@@ -1,0 +1,57 @@
+dateModified: 1705534083
+email:
+  fromEmail: jsosa@heyblackmagic.com
+  fromName: 'Svelte Craft'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  images:
+    hasUrls: true
+    name: Images
+    settings:
+      path: '@filesystemMediaPath/images'
+    type: craft\fs\Local
+    url: '@filesystemMediaUrl/images'
+meta:
+  __names__:
+    0dab8dda-312e-4647-a4f8-8879ffa11af1: About # About
+    2d2a572a-bbd1-4867-9fa6-9b98f18344ad: Default # Default
+    4b9c8417-198f-4b20-b087-5205913d79f3: Entries # Entries
+    33a9c5a6-fed8-4c6a-92c8-b4ee95ef27c3: 'Public Schema' # Public Schema
+    041a02da-eb13-40fd-a5b4-cf7610dfd82d: 'Hero Image' # Hero Image
+    77eb2899-41cf-4787-8a37-0c909b4e55fb: Simple # Simple
+    89ac2c68-6cd4-4e5f-a21d-4424000bb019: About # About
+    187c06ff-306d-4a17-a518-76d83ed5575f: 'Svelte Craft' # Svelte Craft
+    9753e4a8-d0be-41f3-9f74-4a6a5c67ff2f: Homepage # Homepage
+    6478671f-b8e0-4ebb-82fa-6a5e69963284: 'Svelte Craft' # Svelte Craft
+    a4c03144-6e05-48e3-9d97-18e0b4243f21: Content # Content
+    b6d32ac7-0370-4dce-96a6-768ce2bdd309: Description # Description
+    d60c6375-125e-4a16-94bb-b49eac021479: Common # Common
+    e0f4bc6a-1d08-4ea1-af1f-a5996514e1ea: Header # Header
+    e39fbe08-a5b9-4066-b2cf-ff33f6a339ca: Homepage # Homepage
+    e87ff7a9-1545-48ff-9df1-54504fbf1434: Images # Images
+    eb70c4df-d88f-4853-97d5-9a3a0038e1d8: Interests # Interests
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  field-manager:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  quick-field:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: pro
+  live: true
+  name: 'Svelte Craft'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

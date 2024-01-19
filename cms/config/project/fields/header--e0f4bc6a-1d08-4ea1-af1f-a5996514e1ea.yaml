@@ -1,0 +1,19 @@
+columnSuffix: uzsptqmv
+contentColumnType: text
+fieldGroup: d60c6375-125e-4a16-94bb-b49eac021479 # Common
+handle: header
+instructions: null
+name: Header
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

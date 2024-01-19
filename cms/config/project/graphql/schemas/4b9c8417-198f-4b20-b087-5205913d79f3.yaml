@@ -1,0 +1,15 @@
+isPublic: false
+name: Entries
+scope:
+  - 'sites.6478671f-b8e0-4ebb-82fa-6a5e69963284:read' # Svelte Craft
+  - 'sections.0dab8dda-312e-4647-a4f8-8879ffa11af1:read' # About
+  - 'entrytypes.89ac2c68-6cd4-4e5f-a21d-4424000bb019:read' # About
+  - 'sections.e39fbe08-a5b9-4066-b2cf-ff33f6a339ca:read' # Homepage
+  - 'entrytypes.9753e4a8-d0be-41f3-9f74-4a6a5c67ff2f:read' # Homepage
+  - 'sections.eb70c4df-d88f-4853-97d5-9a3a0038e1d8:read' # Interests
+  - 'entrytypes.2d2a572a-bbd1-4867-9fa6-9b98f18344ad:read' # Default
+  - 'volumes.e87ff7a9-1545-48ff-9df1-54504fbf1434:read' # Images
+  - 'sections.eb70c4df-d88f-4853-97d5-9a3a0038e1d8:edit' # Interests
+  - 'entrytypes.2d2a572a-bbd1-4867-9fa6-9b98f18344ad:edit' # Default
+  - 'entrytypes.2d2a572a-bbd1-4867-9fa6-9b98f18344ad:create' # Default
+  - 'entrytypes.2d2a572a-bbd1-4867-9fa6-9b98f18344ad:save' # Default

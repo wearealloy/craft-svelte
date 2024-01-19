@@ -1,0 +1,23 @@
+columnSuffix: edpaifjv
+contentColumnType: text
+fieldGroup: d60c6375-125e-4a16-94bb-b49eac021479 # Common
+handle: description
+instructions: null
+name: Description
+searchable: false
+settings:
+  availableTransforms: ''
+  availableVolumes: ''
+  ckeConfig: 77eb2899-41cf-4787-8a37-0c909b4e55fb # Simple
+  columnType: text
+  defaultTransform: null
+  enableSourceEditingForNonAdmins: false
+  purifierConfig: null
+  purifyHtml: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  showWordCount: false
+  wordLimit: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\ckeditor\Field
