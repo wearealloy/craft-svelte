@@ -2,7 +2,7 @@
 
 	export let data;
 
-	const cmsUrl = 'http://svelte-craft.test/';
+	const cmsUrl = 'https://sveltecms.heyblackmagic.com/';
 	// const cmsUrl = 'http://svelte-craft.test/';
 
 	$: entry = data.homepageEntries[0];

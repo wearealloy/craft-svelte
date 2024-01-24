@@ -1,6 +1,6 @@
 <script>
     export let data;
-    const cmsUrl = 'http://svelte-craft.test/';
+    const cmsUrl = 'https://sveltecms.heyblackmagic.com/';
 
     $: entry = data.aboutEntries[0];
     $: heroImage = entry.heroImage.length > 0 ? entry.heroImage[0] : false;
